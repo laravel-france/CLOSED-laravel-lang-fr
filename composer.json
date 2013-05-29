@@ -1,0 +1,23 @@
+{
+    "name": "caouecs/laravel-lang-fr",
+    "description": "",
+    "authors": [
+        {
+            "name": "caouecs",
+            "email": "caouecs@caouecs.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Caouecs\\LaravelLangFr": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
