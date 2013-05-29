@@ -1,4 +1,8 @@
 laravel-lang-fr
 ===============
 
-* Premier test avec Artisan workbench afin de proposer une traduction en français de trois fichiers.
+Ce dépôt permet de récupérer facilement les fichiers de traduction de Laravel v4 en version française.
+
+Vous avez juste à cloner ce dépôt ou récupérer le [fichier zip] (https://github.com/caouecs/laravel-lang-fr/archive/master.zip), et mettre le répertoire *fr* ainsi que son contenu dans *app/lang*
+
+Tout simplement !
